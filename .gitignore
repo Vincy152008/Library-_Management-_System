@@ -1,0 +1,14 @@
+# Compiled binaries
+library_system
+library_system.exe
+*.o
+*.obj
+
+# IDE / editor folders
+.vscode/
+.idea/
+*.user
+
+# OS files
+.DS_Store
+Thumbs.db
